@@ -1,0 +1,2 @@
+# memory_execute_golang_elf
+内存加载执行golang elf二进制文件
